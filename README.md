@@ -1,5 +1,4 @@
 
-```markdown
 # ClashAPI Python Package
 
 The **ClashAPI** Python package provides a simple and convenient way to interact with the Clash of Clans API, allowing you to retrieve information about clans and players in the Clash of Clans game.
