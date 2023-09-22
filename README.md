@@ -143,7 +143,7 @@ heroes, exp = my_player.info("heroes", "expLevel")
 
 ## Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests on the [GitHub repository](https://github.com/your/repository).
+Contributions are welcome! Feel free to open issues or submit pull requests on the GitHub repository
 
 ## License
 
