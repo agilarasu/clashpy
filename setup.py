@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as readme_file:
 
 setup(
     name="clashpy",
-    version="1.0.1",
+    version="1.0.2",
     description="A Python package to interact with the Clash of Clans API",
     long_description=long_description,  # Use the README as long description
     long_description_content_type="text/markdown",  # Specify the content type
